@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User finish the last step of checkout proccess</description>
+   <name>TC_23 Finish the Checkout Proccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2706a13a-de76-4fd2-8a62-87feae21f0d3</testCaseGuid>
+</TestCaseEntity>

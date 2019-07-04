@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can access all pages in Sauce Demo Website without login by using the url</description>
+   <name>B_01 No user session in all pages Sauce Demo Website</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ae2d0d6-2ee1-4e6b-8262-5beba8a9e716</testCaseGuid>
+</TestCaseEntity>

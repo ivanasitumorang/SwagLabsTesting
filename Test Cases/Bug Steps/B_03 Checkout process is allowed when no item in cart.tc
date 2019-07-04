@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can do checkout process without any item in Cart</description>
+   <name>B_03 Checkout process is allowed when no item in cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de261c29-063d-4756-92ba-0f11be4ef948</testCaseGuid>
+</TestCaseEntity>

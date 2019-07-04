@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System displays the product detail</description>
+   <name>TC_15 Show product detail from Cart Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24bd30fc-1af9-49ca-b2eb-b3007ea0584a</testCaseGuid>
+</TestCaseEntity>

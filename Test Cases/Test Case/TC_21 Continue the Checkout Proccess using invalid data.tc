@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User continues the checkout process by not filling the form or using invalid data</description>
+   <name>TC_21 Continue the Checkout Proccess using invalid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef9ca82a-9e8c-408b-b19e-0b23a3c9ad2b</testCaseGuid>
+</TestCaseEntity>

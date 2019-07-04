@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System displays the product detail</description>
+   <name>TC_09 Show product detail from Products Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2314785-7186-4e92-8d91-2249b228a228</testCaseGuid>
+</TestCaseEntity>

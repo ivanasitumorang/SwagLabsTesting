@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System displays the product list as grid view and ordered by name (A to Z)</description>
+   <name>TC_04 Display Product List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9366e2a-9131-4a27-8f40-79b966883eba</testCaseGuid>
+</TestCaseEntity>

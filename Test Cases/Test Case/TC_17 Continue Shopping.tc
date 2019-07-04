@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User continues the shopping</description>
+   <name>TC_17 Continue Shopping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8592371-6f67-4fbc-b414-ccc71c3d29d5</testCaseGuid>
+</TestCaseEntity>

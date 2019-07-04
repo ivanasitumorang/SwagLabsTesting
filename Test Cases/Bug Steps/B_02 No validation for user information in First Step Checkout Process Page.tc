@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System doesn't validate the data inputted by user</description>
+   <name>B_02 No validation for user information in First Step Checkout Process Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fff22bfc-64f6-4cb9-bd55-917559b5359f</testCaseGuid>
+</TestCaseEntity>

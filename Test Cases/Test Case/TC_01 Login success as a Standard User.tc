@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login as a standard user using valid username and valid password</description>
+   <name>TC_01 Login success as a Standard User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6901595-f3ac-4a3d-ab2e-48e81f2987bc</testCaseGuid>
+</TestCaseEntity>

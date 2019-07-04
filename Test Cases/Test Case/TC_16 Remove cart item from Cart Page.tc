@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User remove cart item from Cart Page</description>
+   <name>TC_16 Remove cart item from Cart Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb5e4b4b-0828-498a-a958-aa9e1a872f5e</testCaseGuid>
+</TestCaseEntity>

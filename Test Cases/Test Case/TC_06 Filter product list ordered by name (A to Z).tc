@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System displays the product list as grid view and ordered by name (A to Z)</description>
+   <name>TC_06 Filter product list ordered by name (A to Z)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>484d9759-dcc2-4297-b4b8-70d8b56e7e4b</testCaseGuid>
+</TestCaseEntity>
